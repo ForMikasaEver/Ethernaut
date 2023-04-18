@@ -1,5 +1,6 @@
 # Ethernaut做题笔记
 参考答案：https://xz.aliyun.com/t/7173
+         https://xz.aliyun.com/t/7174
 ***
 
 ## 1.Hello Ethernaut
